@@ -1,11 +1,11 @@
-# CG4002 B05 Laser Tag AR System
+# Laser Tag AR System
 
 ## Links to Individual Subcomponents README
-* [Hardware Sensors](hardware/README.md)
-* [Hardware AI](hardware-ai/README.md)
-* [Internal Communications](internal_comms/README.md)
-* [External Communications](external_comms/README.md)
-* [Visualiser](visualizer/README.md)
+* [Hardware Sensors](hardware/README.md) (done by Ashraf Jaffar)
+* [Hardware AI](hardware-ai/README.md) (done by Nigel Ng)
+* [Internal Communications](internal_comms/README.md) (done by Wang Zhihuang)
+* [External Communications](external_comms/README.md) (done by Jia Yixuan)
+* [Visualiser](visualizer/README.md) (done by Lee Qi An)
 
 ## Full System Setup
 Ensure that the prerequisites and set-up are done for each individual subsystem, and start them in the order below.
